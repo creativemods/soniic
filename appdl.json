@@ -4,13 +4,13 @@
     {
       "status":"0",
       "link":"http://",
-      "pengaturan_iklan":"0",
+      "pengaturan_iklan":"2",
       "admob_open_ads":"ca-app-pub-5456136783183193/1309352633",
       "admob_banner":"ca-app-pub-5456136783183193/8970567841",
       "admob_inter":"ca-app-pub-5456136783183193/5031322833",
       "admob_native":"ca-app-pub-5456136783183193/5248597641",
       "interval":5,
-      "appodeal_apikey":"",
+      "appodeal_apikey":"cee5e82ce012b3616f0403e7d187905db54092b51dbe8468",
       "startappid":"",
       "mopub_banner":"",
       "mopub_inter":""
